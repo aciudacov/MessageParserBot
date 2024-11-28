@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MessageParserBot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
